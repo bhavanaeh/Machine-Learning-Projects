@@ -1,6 +1,9 @@
 # Machine Learning Projects
 My attempt at learning machine learning by building basic projects.
 
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+
 # Breast Cancer Detection
 - This is a pretty simple data set: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
 - Using 10 features of biopsy, classifiying whether it is cancerous(malignant or benign tumor) or not. 
