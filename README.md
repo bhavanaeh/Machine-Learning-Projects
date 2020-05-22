@@ -11,3 +11,11 @@ My attempt at learning machine learning by building basic projects.
 - Plotted the distributions and correlation matrixes of each feature.
 - Used K-nearest neighbors and suppor vector machine classifier
 - Got an accuracy of 98% for the KNN model
+
+# Credit Card Fraud Detection
+- The dataset can be downloaded from kaggle.com (https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv) 
+- compares the effectiveness of outlier-detection methods using credit card transactional data.
+- anomaly detection by using probability densities.
+- precision score for LOF when it cames to identifying the fraudulent cases is pretty bad: 0.02 probably could identify only one accurately
+- Isolation forest based on the random forest method has shown better results comparetively.Almost 30% of the time it has been succesful to detect the anomaly that is the fraud.
+- I could improve my results if I took a larger sample of data, but that would be computationally expensive
